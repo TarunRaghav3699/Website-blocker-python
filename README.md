@@ -19,7 +19,7 @@ Getting started
 ---------------------
 
 Well to get started with this project just clone the repository 
-and edit the host file location depending on the OS your using.
+and edit the host file location depending on the OS that you are using.
 
 ```bash
     $-> git clone https://github.com/Kalebu/Website-blocker-python
